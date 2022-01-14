@@ -5,7 +5,7 @@
  * @LastEditTime: 2021-06-15 14:12:10
 -->
 <template>
-  <router-view/>
+  <router-view />
 </template>
 
 <style lang="scss">
@@ -18,7 +18,7 @@ body {
   overflow: hidden;
 }
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
